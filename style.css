@@ -1,0 +1,18 @@
+.block{
+
+	width: 50px;
+	height: 50px;
+	border: solid;
+}
+#generate{
+	width: 20vh;
+}
+li{
+	list-style-type: none;
+}
+
+#platform{
+	display: flex;
+	padding: 10px;
+
+}
